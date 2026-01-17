@@ -1,0 +1,5 @@
+supplier_id,supplier_name,amount,date
+101,ABC Traders,25000,2024-01-10
+102,,18000,2024-01-11
+,XYZ Corp,30000,2024-01-12
+104,LMN Pvt Ltd,abc,2024-01-13
